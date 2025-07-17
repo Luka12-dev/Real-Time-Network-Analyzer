@@ -1,5 +1,3 @@
-ChatGPT је рекао:
-Brate, evo ti čvrst i jasan README za Real-Time Network Analyzer na engleskom, spreman da zablista na GitHubu!
 
 Real-Time Network Analyzer
 What is Real-Time Network Analyzer?
